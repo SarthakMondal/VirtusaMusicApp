@@ -1,0 +1,19 @@
+
+r
+java:S1192†"[Define a constant instead of duplicating this literal "User not found by given Id" 5 times.(ø£££
+g
+java:S1192"KDefine a constant instead of duplicating this literal "ROLE_ADMIN" 4 times.(ßÇ¸ûÿÿÿÿ
+w
+java:S1192"[Define a constant instead of duplicating this literal "You are allowed to Do This" 4 times.(˜É±°úÿÿÿÿ
+a
+java:S2259o"FA "NullPointerException" could be thrown; "getBody()" can return null.(ˆæÖøÿÿÿÿ
+g
+java:S3655Ê"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(öôÌş
+g
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÚıèÇ
+l
+java:S3655‰"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ØŞ‡ùÿÿÿÿ
+g
+java:S3655¢"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(öôÌş
+b
+java:S5998H"LRefactor this repetition that can lead to a stack overflow for large inputs.(´ÖÊ

@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApigatewayApplication<apigateway>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "music.bennington.apigateway.ApigatewayApplication",
+            "projectName": "apigateway",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-LikedislikeserviceApplication<likedislikeservice>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "music.bennington.likedislikeservice.LikedislikeserviceApplication",
+            "projectName": "likedislikeservice",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MusicserviceApplication<musicservice>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "music.bennington.musicservice.MusicserviceApplication",
+            "projectName": "musicservice",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-RegistryserviceApplication<registryservice>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "music.bennington.registryservice.RegistryserviceApplication",
+            "projectName": "registryservice",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-UserserviceApplication<userservice>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "music.bennington.userservice.UserserviceApplication",
+            "projectName": "userservice",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

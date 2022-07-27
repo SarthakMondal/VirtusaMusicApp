@@ -1,0 +1,23 @@
+
+Š
+java:S1192<"hDefine a constant instead of duplicating this literal "Music Album not found with requested Id" 5 times.(×í±äıÿÿÿÿ8Ì±ØË£0
+n
+java:S3655Œ"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÅÏ®‹8ï±ØË£0
+n
+java:S3655´"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ëÔ8ï±ØË£0
+n
+java:S3655Ü"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(èÏíœ8ğ±ØË£0
+n
+java:S3655ô"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ŠÛ±²8ğ±ØË£0
+r
+java:S3655a"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(±ô¥íıÿÿÿÿ8ğ±ØË£0
+m
+java:S3655F"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ŠÛ±²8ğ±ØË£0
+r
+java:S3655~"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(õĞğ©ÿÿÿÿÿ8ğ±ØË£0
+n
+java:S3655²"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¤¡–Æ8ğ±ØË£0
+n
+java:S1128"XRemove this unused import 'music.bennington.musicservice.exception.DataFormatException'.(èÌ’¾
+k
+java:S1128"URemove this unused import 'music.bennington.musicservice.model.LikeDislikeSendModel'.(Ç±‹ë

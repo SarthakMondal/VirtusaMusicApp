@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbb6f0a6-e479-470c-84ec-85f71a671593" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/music/bennington/userservice/exception/LoginException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0be2fd4fa93989ed9d990f7faebd31e174325166" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e0878f63fa44ef0d2aa51a16315b7d972d9e54e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10eaa2aba70ce8a08ddf331c7c6e237113c8fb00" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/282110e3358e037a809cc29b9d5d00de45a77e37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d91948afd3a9a3b5dfeb55f044bacb16a6abd0b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d91948afd3a9a3b5dfeb55f044bacb16a6abd0b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32cd8508abc98804c7d3485f903de2ac6e9163a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60c23fcdc5fddad549bd670d6e2eefa27a66c8b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/610378d38cacc5e1fce98a42b72b7aa326d53896" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/6349f3aba62d40f6783d31410a376afda05062d1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/650b96a5be7ab6f24bfa55e4464669e54d3446f9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65abc6a09fb071cfd4ee4f400c8c1627f81dc1d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/673b05146936037e651cd25a4b7be0267f33637a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/673b05146936037e651cd25a4b7be0267f33637a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/6989e944b011d4f20e63e76590303b481f83b84e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a88af65bc270a9410afb53fc068850e8dc391cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6bcbacaedef3efb5597fd11a62ca096496427496" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6bcbacaedef3efb5597fd11a62ca096496427496" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71e9f5d12f683d10f03ff72aca87d9698fb61c45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90e84017a04392634ec08bea9736a5ac0be2032e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4795219294171aebe405259e26433c58234632d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abac7069e615020d61dd74a13b81c771c7b1b901" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbbb66b3b80e4c1640670b84b5e508f75ab34616" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2ef8b487157d56c4f8cd912c603e37733e71a74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c591b4a345ff17afe6f50ea2ae5ec63cba239f01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d998ab1e983350c509465b74d45acc6e4facfe4c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc68226d8fe15f0ae3bb26ab29faf9e5c1e37fcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0888a4dfb1f53e2690af527b34664c63b8a3f76" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/eca92f235851a8844862c83e6141b4571ecaf271" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd32201bc24dce0ce7ded17b04bf9e6d95931ca2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likedislikeservice/src/main/java/music/bennington/likedislikeservice/service/CommentServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/likedislikeservice/src/main/java/music/bennington/likedislikeservice/service/CommentServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likedislikeservice/src/main/java/music/bennington/likedislikeservice/service/LikeDislikeServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/likedislikeservice/src/main/java/music/bennington/likedislikeservice/service/LikeDislikeServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicservice/src/main/java/music/bennington/musicservice/service/MusicCommentServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/musicservice/src/main/java/music/bennington/musicservice/service/MusicCommentServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicservice/src/main/java/music/bennington/musicservice/service/MusicLikeDislikeServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/musicservice/src/main/java/music/bennington/musicservice/service/MusicLikeDislikeServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicservice/src/main/java/music/bennington/musicservice/service/MusicServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/musicservice/src/main/java/music/bennington/musicservice/service/MusicServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/java/music/bennington/userservice/service/UserCommentForMusicServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/java/music/bennington/userservice/service/UserCommentForMusicServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/java/music/bennington/userservice/service/UserLikeDislikeForMusicImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/java/music/bennington/userservice/service/UserLikeDislikeForMusicImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/java/music/bennington/userservice/service/UserMusicServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/java/music/bennington/userservice/service/UserMusicServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/java/music/bennington/userservice/service/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/java/music/bennington/userservice/service/UserServiceImp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CQsT4HoBy9Vm4QkDYNPvsOnnTq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.MusicserviceApplication">
+    <configuration name="ApigatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="music.bennington.apigateway.ApigatewayApplication" />
+      <module name="apigateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="music.bennington.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LikedislikeserviceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="music.bennington.likedislikeservice.LikedislikeserviceApplication" />
+      <module name="likedislikeservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="music.bennington.likedislikeservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicserviceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="music.bennington.musicservice.MusicserviceApplication" />
+      <module name="musicservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="music.bennington.musicservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistryserviceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="music.bennington.registryservice.RegistryserviceApplication" />
+      <module name="registryservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="music.bennington.registryservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserserviceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="music.bennington.userservice.UserserviceApplication" />
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="music.bennington.userservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MusicserviceApplication" />
+        <item itemvalue="Application.UserserviceApplication" />
+        <item itemvalue="Application.LikedislikeserviceApplication" />
+        <item itemvalue="Application.ApigatewayApplication" />
+        <item itemvalue="Application.RegistryserviceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbb6f0a6-e479-470c-84ec-85f71a671593" name="Changes" comment="" />
+      <created>1658746150258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658746150258</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
